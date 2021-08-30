@@ -4,7 +4,7 @@
 }
 
 .app :global(header) {
-  background-color: #ffffff;
+  background-color: #fff;
   color: white;
   padding: 5px;
   border-radius: 3px;
