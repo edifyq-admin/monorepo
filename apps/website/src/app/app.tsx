@@ -8,7 +8,7 @@ export function App() {
   return (
     <div className={styles.app}>
       <header className="flex">
-        <img src={logo} alt="logo image" />
+        <img src={logo} />
       </header>
       <main>
         <h1>Welcome to website!</h1>
