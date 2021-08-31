@@ -2,4 +2,4 @@
 . "$(dirname "$0")/_/husky.sh"
 
 nx test website
-nx e2e website-e2e --headless=true
+nx e2e website-e2e --headless
