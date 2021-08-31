@@ -3,18 +3,18 @@
   min-width: 300px;
 }
 
-.app :global(header) {
+.app header {
   background-color: #fff;
   color: white;
   padding: 5px;
   border-radius: 3px;
 }
 
-.app :global(main) {
+.app main {
   padding: 0 36px;
 }
 
-.app :global(h1) {
+.app h1 {
   text-align: center;
   margin-left: 18px;
   font-size: 24px;
