@@ -32,7 +32,7 @@ jobs:
       - name: Run website tests
         run: nx test website
       - name: Run e2e tests
-        run: nx e2e website-e2e
+        run: nx e2e website-e2e --headless
       - name: Build
         run: nx build website
       - name: Deploy
